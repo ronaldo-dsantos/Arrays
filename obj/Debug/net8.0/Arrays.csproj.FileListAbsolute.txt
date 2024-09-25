@@ -1,0 +1,14 @@
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\bin\Debug\net8.0\Arrays.exe
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\bin\Debug\net8.0\Arrays.deps.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\bin\Debug\net8.0\Arrays.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\bin\Debug\net8.0\Arrays.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Arrays\obj\Debug\net8.0\ref\Arrays.dll
